@@ -1,5 +1,6 @@
 # 💫 About Me:
-<br>#👋 Hi! I'm Ulises Armenta<br><br>**Fullstack Developer | Specialist in Angular, NestJS, and Serverless**<br><br>💻 I am passionate about building efficient and elegant solutions in web and mobile development. With experience in both frontend and backend projects, I strive to improve every day with new technologies.
+## <br>👋 Hi! I'm Ulises Armenta<br><br>
+**Fullstack Developer | Specialist in Angular, NestJS, and Serverless**<br><br>💻 I am passionate about building efficient and elegant solutions in web and mobile development. With experience in both frontend and backend projects, I strive to improve every day with new technologies.
 
 
 ## 🌐 Socials:
